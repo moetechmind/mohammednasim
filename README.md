@@ -16,4 +16,4 @@ I'm a passionate IT professional with a focus on [Your IT focus area, e.g., clou
 
 **Let's Connect! **
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/mohammedn652)
+[![LinkedIn](https://linkedin.com/in/mohammedn652)
