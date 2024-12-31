@@ -1,5 +1,6 @@
 <h1>Hi, I'm Mohammed, an <a href="https://linkedin.com/in/mohammedn652">IT Professional</a>😄</h1>
-
+**About Me** 
+I'm a passionate IT professional with a focus on [Your IT focus area, e.g., cloud computing, cybersecurity, systems administration]. I'm always eager to learn new technologies and solve challenging technical problems. 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
