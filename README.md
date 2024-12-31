@@ -1,19 +1,20 @@
-# 嗨 (Hāi)  I'm Mohammed Nasim, an IT  Professional! 
+<h1>Hi, I'm Mohammed, an <a href="https://linkedin.com/in/mohammedn652">IT Professional</a>😄</h1>
 
-**About Me** 
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-I'm a passionate IT professional with a focus on [Your IT focus area, e.g., cloud computing, cybersecurity, systems administration]. I'm always eager to learn new technologies and solve challenging technical problems. 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/moetechmind/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/moetechmind/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/moetechmind/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/moetechmind/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jmoetechmind/azure-network-protocols)
 
-**👨‍💻 Information Technology Projects:**
+<h2>🤳Connect with me:</h2>
 
-*  **osTicket (Help Desk Ticketing System):**
-    * [osTicket: Prerequisites and Installation](https://github.com/moetechmind/osticket-prereqs) 
-    * [osTicket: Post-Installation Configuration](https://github.com/moetechmind/post-install-config) ⚙️
-    * [osTicket: Ticket Lifecycle Examples](https://github.com/moetechmind/ticket-lifecycle) 
-* ☁️ **Microsoft Azure:**
-    * [Configuring Active Directory within Azure VMs](https://github.com/moetechmind/configure-ad) 
-    * [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jmoetechmind/azure-network-protocols) ️ 
 
-**Let's Connect! **
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[![LinkedIn](https://linkedin.com/in/mohammedn652)
+
+
+[linkedin]: https://linkedin.com/in/mohammedn652
