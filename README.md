@@ -14,7 +14,7 @@ I'm a passionate IT professional with a focus on [Your IT focus area, e.g., clou
 
 - [Configuring Active Directory within Azure VMs](https://github.com/moetechmind/configure-ad)
   
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jmoetechmind/azure-network-protocols)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/moetechmind/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
