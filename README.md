@@ -1,3 +1,36 @@
+# ✨ Mohammed Nasim ✨
+
+<div align="center">
+  <img src="https://i.imgur.com/your_image_url.png" alt="Your Banner Image" width="800"> 
+</div>
+
+**About Me**
+
+Hi there! I'm Mohammed Nasim, a passionate IT professional with a focus on [Your IT focus area, e.g., cloud computing, cybersecurity, systems administration]. I'm always eager to learn new technologies and solve challenging technical problems. 
+
+**Skills**
+
+* **Cloud:** Azure ☁️, AWS ☁️, GCP ☁️ (Virtual Machines, Networking, Storage)
+* **Networking:** Networking Protocols (TCP/IP, DNS), Firewalls, VPNs, Routing 
+* **Operating Systems:** Windows Server, Linux (Ubuntu, CentOS), macOS 
+* **Security:** Cybersecurity Fundamentals, Threat Detection, Incident Response
+* **Scripting:** Python 🐍, PowerShell 
+
+**Projects**
+
+* **[Project Name 1]**: [Short description related to IT, e.g., "Automated server provisioning script using Ansible"] 
+    [Link to repository]
+    [Badges for technologies used] 
+* **[Project Name 2]**: [Short description related to IT, e.g., "Developed a network monitoring tool using Python and SNMP"] 
+    [Link to repository]
+    [Badges for technologies used] 
+
+**Connect with me**
+
+* **LinkedIn:** [Your LinkedIn Profile URL] 
+
+**Let's build a better digital future!** 🌐
+
 <h1>Hi, I'm Mohammed, an <a href="https://linkedin.com/in/mohammedn652">IT Professional</a>😄</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
