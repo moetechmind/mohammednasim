@@ -16,6 +16,9 @@ I'm a passionate IT professional with a focus on [Your IT focus area, e.g., clou
   
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/moetechmind/azure-network-protocols)
 
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
+
 <h2>🤳Connect with me:</h2>
 
 
