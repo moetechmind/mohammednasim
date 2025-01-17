@@ -19,9 +19,6 @@
   
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/moetechmind/azure-network-protocols)
 
-- <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/moetechmind/Setting-UP-A-VPN)
-
 <h2>🤳Connect with me:</h2>
 
 
