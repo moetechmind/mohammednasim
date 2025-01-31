@@ -1,12 +1,19 @@
-<h1>Hi, I'm Mohammed, an <a href="https://linkedin.com/in/mohammedn652">IT Professional</a>😄</h1>
+<h1>👋 Hi, I'm Mohammed Nasim!</h1>
 
    <section id="about">
       <h2>About Me</h2>
       <p>
-        I am a passionate IT Support Specialist with hands-on experience in troubleshooting, system administration, and cloud computing. Skilled in deploying and managing Azure virtual environments, Active Directory, and ticketing systems, I aim to deliver efficient solutions and exceptional customer support.
-      </p>
+       🚀 Aspiring IT Support Specialist | Cloud Enthusiast | Problem Solver
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+Welcome to my GitHub! I'm passionate about IT Support, Cloud Computing, and Systems Administration. With hands-on experience in troubleshooting, network configuration, and customer service, I’m actively building projects to sharpen my technical skills in Azure, Active Directory, and PowerShell.
+      </p>
+🔧 Tech Skills & Tools
+💻 Operating Systems: Windows, Linux, macOS
+🖧 Networking: TCP/IP, Firewalls, VPNs
+☁️ Cloud & Infrastructure: Microsoft Azure, Virtual Machines, Active Directory
+🔍 IT Support: Help Desk, Troubleshooting, Ticketing Systems
+🛠️ Scripting & Automation: PowerShell, Bash
+- <b>📌 My Projects</b>
  - [osTicket: Prerequisites and Installation](https://github.com/moetechmind/osticket-prereqs)
   
  - [osTicket: Post-Installation Configuration](https://github.com/moetechmind/post-install-config)
