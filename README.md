@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm passionate about IT Support, Cloud Computing, and Syst
 🔍 IT Support: Help Desk, Troubleshooting, Ticketing Systems
 🛠️ Scripting & Automation: PowerShell, Bash
 
--<b>📌 My IT Projects</b>
+-<b>📌 My IT Projects:</b>
  - [osTicket: Prerequisites and Installation](https://github.com/moetechmind/osticket-prereqs)
   
  - [osTicket: Post-Installation Configuration](https://github.com/moetechmind/post-install-config)
